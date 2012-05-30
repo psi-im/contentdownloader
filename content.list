@@ -115,6 +115,11 @@ url = https://raw.github.com/psi-plus/resources/master/iconsets/affiliations/psi
 html = http://psi-plus.com/contentlist/iconsets/affiliations/psiplus-affiliations.html
 
 [iconsets/affiliations]
+name = Lamps Affiliations
+url = https://raw.github.com/psi-plus/resources/master/iconsets/affiliations/lamps-affiliations.jisp
+html = http://psi-plus.com/contentlist/iconsets/affiliations/lamps-affiliations.html
+
+[iconsets/affiliations]
 name = QIP Infium
 url = https://raw.github.com/psi-plus/resources/master/iconsets/affiliations/qipinfium-affiliations.jisp
 html = http://psi-plus.com/contentlist/iconsets/affiliations/qipinfium-affiliations.html
