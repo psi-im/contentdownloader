@@ -120,6 +120,11 @@ url = https://raw.github.com/psi-plus/resources/master/iconsets/affiliations/lam
 html = http://psi-plus.com/contentlist/iconsets/affiliations/lamps-affiliations.html
 
 [iconsets/affiliations]
+name = Futurama Robots Affiliations
+url = https://raw.github.com/psi-plus/resources/master/iconsets/affiliations/futurama-robots-affiliations.jisp
+html = http://psi-plus.com/contentlist/iconsets/affiliations/futurama-robots-affiliations.html
+
+[iconsets/affiliations]
 name = QIP Infium
 url = https://raw.github.com/psi-plus/resources/master/iconsets/affiliations/qipinfium-affiliations.jisp
 html = http://psi-plus.com/contentlist/iconsets/affiliations/qipinfium-affiliations.html
