@@ -172,6 +172,11 @@ url = https://raw.github.com/psi-plus/resources/master/iconsets/emoticons/Androi
 html = http://psi-plus.com/contentlist/iconsets/emoticons/Android.html
 
 [iconsets/emoticons]
+name = Android 4 Blue by Disabler
+url = https://raw.github.com/psi-plus/resources/master/iconsets/emoticons/Android4blue.jisp
+html = http://psi-plus.com/contentlist/iconsets/emoticons/Android4blue.html
+
+[iconsets/emoticons]
 name = bombus2psi
 url = https://raw.github.com/psi-plus/resources/master/iconsets/emoticons/bombus2psi.jisp
 html = http://psi-plus.com/contentlist/iconsets/emoticons/bombus2psi.html
