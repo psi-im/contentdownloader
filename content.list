@@ -212,6 +212,11 @@ url = https://raw.github.com/psi-plus/resources/master/iconsets/emoticons/msn.ji
 html = http://psi-plus.com/contentlist/iconsets/emoticons/msn.html
 
 [iconsets/emoticons]
+name = Nimbuzz Emoticons - size 22
+url = https://raw.github.com/psi-plus/resources/master/iconsets/emoticons/Nimbuzz22.jisp
+html = http://psi-plus.com/contentlist/iconsets/emoticons/nimbuzz.html
+
+[iconsets/emoticons]
 name = ShinyIcons
 url = https://raw.github.com/psi-plus/resources/master/iconsets/emoticons/shinyicons.jisp
 html = http://psi-plus.com/contentlist/iconsets/emoticons/shinyicons.html
