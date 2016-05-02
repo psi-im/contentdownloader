@@ -80,6 +80,11 @@ url = https://raw.githubusercontent.com/psi-plus/resources/master/iconsets/affil
 html = http://psi-plus.com/contentlist/iconsets/affiliations/bombus-nostalgic-affiliations.html
 
 [iconsets/affiliations]
+name = Chess
+url = https://raw.githubusercontent.com/psi-plus/resources/master/iconsets/affiliations/chess.jisp
+html = http://psi-plus.com/contentlist/iconsets/affiliations/chess.html
+
+[iconsets/affiliations]
 name = Kingdom
 url = https://raw.githubusercontent.com/psi-plus/resources/master/iconsets/affiliations/kingdom-affiliations.jisp
 html = http://psi-plus.com/contentlist/iconsets/affiliations/kingdom-affiliations.html
