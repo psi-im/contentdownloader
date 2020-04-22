@@ -115,7 +115,7 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/affilia
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/affiliations/planets-affiliations.html
 
 [iconsets/affiliations]
-name = Psi+ Affiliations
+name = Psi Affiliations
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/affiliations/psiplus-affiliations.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/affiliations/psiplus-affiliations.html
 
@@ -161,12 +161,12 @@ html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconset
 
 
 [iconsets/clients]
-name = Psi+ Fingerprint - size 16
+name = Psi Fingerprint - size 16
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/clients/fingerprint.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/clients/fingerprint.html
 
 [iconsets/clients]
-name = Psi+ Fingerprint - size 22
+name = Psi Fingerprint - size 22
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/clients/fingerprint-22.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/clients/fingerprint-22.html
 
