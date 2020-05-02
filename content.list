@@ -485,6 +485,7 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/roster/
 [iconsets/roster]
 name = Oxygen-S
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/roster/Oxygen-S.jisp
+html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/roster/Oxygen-S.html
 
 [iconsets/roster]
 name = qipinfium
