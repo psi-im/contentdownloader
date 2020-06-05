@@ -608,7 +608,7 @@ html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconset
 
 [iconsets/system]
 name = Oxygen SVG
-url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/system/oxygen_svg.jisp
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/system/oxygen-svg.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/system/oxygen_svg.html
 
 [iconsets/system]
