@@ -602,6 +602,16 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/system/
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/system/oxygen_sys_22.html
 
 [iconsets/system]
+name = Oxygen
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/system/oxygen.jisp
+html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/system/oxygen.html
+
+[iconsets/system]
+name = Oxygen SVG
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/system/oxygen_svg.jisp
+html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/system/oxygen_svg.html
+
+[iconsets/system]
 name = QIP Infium
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/system/qipinfium_sys.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/system/qipinfium_sys.html
