@@ -250,6 +250,9 @@ html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconset
 name = Emojis
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Emojis.jisp
 
+[iconsets/emoticons]
+name = Emojis_psi
+url = https://psi-im.org/files/Emojis_psi.jisp
 
 [iconsets/moods]
 name = Nova UM
