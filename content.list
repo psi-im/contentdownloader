@@ -227,6 +227,10 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emotico
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/nimbuzz.html
 
 [iconsets/emoticons]
+name = Satrap_joypixels
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Satrap_joypixels.jisp
+
+[iconsets/emoticons]
 name = ShinyIcons
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/shinyicons.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/shinyicons.html
