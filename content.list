@@ -261,7 +261,7 @@ url = https://psi-im.org/files/Emojis_psi.jisp
 [iconsets/emoticons]
 name = Noto Color Emoji
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/NotoColorEmoji.jisp
-html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/NotoColorEmoji.png
+html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/NotoColorEmoji.html
 
 [iconsets/moods]
 name = Nova UM
