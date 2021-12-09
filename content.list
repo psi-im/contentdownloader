@@ -182,9 +182,21 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emotico
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/Android4blue.html
 
 [iconsets/emoticons]
+name = Android 12x12 by Disabler
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Android12.jisp
+
+[iconsets/emoticons]
 name = bombus2psi
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/bombus2psi.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/bombus2psi.html
+
+[iconsets/emoticons]
+name = Emojis
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Emojis.jisp
+
+[iconsets/emoticons]
+name = Emojis Psi
+url = https://psi-im.org/files/Emojis_psi.jisp
 
 [iconsets/emoticons]
 name = GTalk smiles
@@ -227,13 +239,26 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emotico
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/nimbuzz.html
 
 [iconsets/emoticons]
-name = Satrap_joypixels
+name = Noto Color Emoji
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/NotoColorEmoji.jisp
+html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/NotoColorEmoji.html
+
+[iconsets/emoticons]
+name = Satrap + Joypixels
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Satrap_joypixels.jisp
+
+[iconsets/emoticons]
+name = Satrap + Joypixels Animated
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Satrap_joypixels_part_animated.jisp
 
 [iconsets/emoticons]
 name = ShinyIcons
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/shinyicons.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/shinyicons.html
+
+[iconsets/emoticons]
+name = Simple Smileys
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/simple.jisp
 
 [iconsets/emoticons]
 name = lokeez rip (Tasha - 93 icons)
@@ -249,19 +274,6 @@ html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconset
 name = Yahoo Gif
 url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/yahoo_gif.jisp
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/yahoo_gif.html
-
-[iconsets/emoticons]
-name = Emojis
-url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Emojis.jisp
-
-[iconsets/emoticons]
-name = Emojis_psi
-url = https://psi-im.org/files/Emojis_psi.jisp
-
-[iconsets/emoticons]
-name = Noto Color Emoji
-url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/NotoColorEmoji.jisp
-html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/NotoColorEmoji.html
 
 [iconsets/moods]
 name = Nova UM
